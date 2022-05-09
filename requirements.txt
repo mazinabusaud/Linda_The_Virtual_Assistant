@@ -1,0 +1,10 @@
+googletrans==4.0.0rc1
+gTTS==2.2.4
+keyboard==0.13.5
+playsound==1.2.2
+psutil==5.9.0
+PyAudio==0.2.11
+requests==2.27.1
+SpeechRecognition==3.8.1
+sports.py==2.0.10
+spotipy==2.19.0
